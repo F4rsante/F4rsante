@@ -1,0 +1,5 @@
+- 👋 Hello, I'm @F4rsante
+- 👀 I'm interested in learning programming
+- 🌱 I am currently learning C++ and Python, all through the internet
+- 💞️ If you have any dispute that can help me to continue learning about this wonderful world, do not hesitate to tell me, it would be very helpful
+- 📫 How to contact me...
