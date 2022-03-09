@@ -14,9 +14,11 @@ Cambio de conteo        cartas
 */
 
 var conteo=0;
-var decision;
-function contarCartas (carta) {
 
+function contarCartas (carta) {
+    
+var decision;
+    
     switch (carta) {
         case 2:
         case 3:
@@ -35,12 +37,12 @@ function contarCartas (carta) {
         }
 
         if(conteo>0){
-            decision = "Apostar"
+            decision = "Apostar";
         }
         else {
-            decision = "Esperar"
+            decision = "Esperar";
         }
-        return conteo +" " + decision;
+        return conteo + " " + decision;
 
 
 }
